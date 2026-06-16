@@ -10,9 +10,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohandsouza15@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohan-dsz)
 [![Oracle GenAI](https://img.shields.io/badge/Oracle%20Certified-GenAI%20%26%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
 
 </div>
@@ -112,12 +112,12 @@ Built production pipelines combining **Whisper** (speech), **LLMs** (language), 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sohan-dsz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-dsz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-dsz&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -139,8 +139,8 @@ Built production pipelines combining **Whisper** (speech), **LLMs** (language), 
 I'm actively looking for **AI/ML Engineer** and **Software Developer** roles. <br/>
 If you're working on something interesting — let's talk!
 
-[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge)](mailto:sohandsouza15@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
 
 </div>
 
@@ -151,6 +151,6 @@ If you're working on something interesting — let's talk!
 
 *"Build systems that think. Ship products that matter."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=6BBBFF&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Sohan-dsz&color=6BBBFF&style=flat-square&label=Profile+Views)
 
 </div>

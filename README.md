@@ -140,7 +140,7 @@ I'm actively looking for **AI/ML Engineer** and **Software Developer** roles. <b
 If you're working on something interesting — let's talk!
 
 [![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge)](mailto:sohandsouza15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
 
 </div>
 

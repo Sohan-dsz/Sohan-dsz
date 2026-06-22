@@ -19,19 +19,15 @@
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 
-```python
-sohan = {
-    "role"        : "AI/ML Engineer & Full-Stack Developer",
-    "education"   : "B.E. Computer Science & Business Systems — SJEC Mangalore (CGPA: 8.94)",
-    "location"    : "Shivamogga, Karnataka 🇮🇳  |  Open to Relocation",
-    "focus"       : ["RAG Pipelines", "LLM Fine-tuning", "Multimodal AI", "Document AI"],
-    "stack"       : ["Python", "FastAPI", "React", "LangChain", "Docker", "PyTorch"],
-    "certifications": ["Oracle Cloud Infrastructure GenAI", "Oracle AI Foundations"],
-    "fun_fact"    : "Led a 30-member team to top national ranking at BAJA SAE India 2026 🏎️"
-}
-```
+
+🎓 B.E. Computer Science & Business Systems — SJEC Mangalore (CGPA: 8.94)
+💼 AI/ML Engineer & Full-Stack Developer, focused on RAG pipelines, LLM fine-tuning, multimodal AI, and document AI
+🛠️ Tech stack: Python · FastAPI · React · LangChain · Docker · PyTorch
+📜 Certifications: Oracle Cloud Infrastructure Generative AI, OCI AI Foundations
+📍 Based in Shivamogga, Karnataka 🇮🇳 — open to relocation
+🏎️ Led a 30-member team to AIR 3 nationally at BAJA SAE INDIA 2026
 
 ---
 

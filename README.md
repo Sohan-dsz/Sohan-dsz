@@ -21,13 +21,14 @@
 
 👨‍💻 About Me
 
-
-🎓 B.E. Computer Science & Business Systems — SJEC Mangalore (CGPA: 8.94)
-💼 AI/ML Engineer & Full-Stack Developer, focused on RAG pipelines, LLM fine-tuning, multimodal AI, and document AI
-🛠️ Tech stack: Python · FastAPI · React · LangChain · Docker · PyTorch
-📜 Certifications: Oracle Cloud Infrastructure Generative AI, OCI AI Foundations
-📍 Based in Shivamogga, Karnataka 🇮🇳 — open to relocation
-🏎️ Led a 30-member team to AIR 3 nationally at BAJA SAE INDIA 2026
+<ul>
+  <li>🎓 <strong>B.E. Computer Science & Business Systems</strong> — SJEC Mangalore (CGPA: 8.94)</li>
+  <li>💼 <strong>AI/ML Engineer & Full-Stack Developer</strong>, focused on RAG pipelines, LLM fine-tuning, multimodal AI, and document AI</li>
+  <li>🛠️ <strong>Tech stack:</strong> Python · FastAPI · React · LangChain · Docker · PyTorch</li>
+  <li>📜 <strong>Certifications:</strong> Oracle Cloud Infrastructure Generative AI, OCI AI Foundations</li>
+  <li>📍 Based in Shivamogga, Karnataka 🇮🇳 — open to relocation</li>
+  <li>🏎️ Led a 30-member team to <strong>AIR 3 nationally</strong> at BAJA SAE INDIA 2026</li>
+</ul>
 
 ---
 

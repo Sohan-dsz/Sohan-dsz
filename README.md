@@ -167,19 +167,50 @@ Multilingual sentiment classifier built on **XLM-RoBERTa**, shipped with CI/CD a
 ```mermaid
 timeline
     title Recent Milestones
-    2026 : CGPA 8.94, B.E. CSBS — SJEC Mangalore
-         : AIR 3 (ATVC), AIR 8 Overall — BAJA SAE INDIA
-         : Geojit Technologies Internship (AIML + Full Stack)
-         : Oracle Cloud — GenAI Professional & AI Foundations
-         : Salesforce — Agentblazer Champion (Dev)
+    2026 (Jan–Apr) : Geojit Technologies Internship
+                    : Built production OCR pipeline (90%+ accuracy)
+    2026 : AIR 3 (ATVC) & AIR 8 Overall — BAJA SAE INDIA
+         : Captained 30-member cross-functional team
+    2026 : Graduated — CGPA 8.94, B.E. CSBS, SJEC Mangalore
+    2026 : Oracle Cloud — GenAI Professional & AI Foundations
+    2026 : Salesforce — Agentblazer Champion (Dev)
 ```
 
-- 🥇 **AIR 3 (ATVC) & AIR 8 Overall** — BAJA SAE INDIA 2026, captaining a 30-member cross-functional team
-- 🎓 **CGPA 8.94** — B.E. Computer Science & Business Systems, SJEC Mangalore
-- 🏅 **Oracle Certified** — Cloud Infrastructure Generative AI Professional
-- 🏅 **Oracle Certified** — AI Foundations Associate
-- 🏅 **Salesforce Certified** — Agentforce, Apex, Flow · Agentblazer Champion (Dev)
-- 🔬 **Production OCR System** — multi-model ensemble pipeline built during Geojit Technologies internship
+### 🏎️ National-Level Engineering Leadership
+
+**BAJA SAE INDIA 2026 — Team SJEC Racing**
+Captained a **30+ member cross-functional team** through a full-cycle off-road vehicle build.
+
+- 🥇 **AIR 3 nationally** in the ATVC (All Terrain Vehicle Championship) category
+- 🏁 **AIR 8 overall** among all national competitors
+- 👥 Led team coordination and technical decision-making under competition deadlines
+
+### 🎓 Academic & Professional
+
+| Category | Detail |
+|---|---|
+| 🎓 Degree | B.E. Computer Science & Business Systems — SJEC Mangalore (VTU) |
+| 📈 CGPA | **8.94** / 10 |
+| 💼 Internship | Geojit Technologies — AIML + Full Stack (Jan–Apr 2026) |
+| 🔬 Internship Output | Production OCR pipeline, **90%+ extraction accuracy**, containerized & observable |
+| 💻 DSA / Practice | Active LeetCode profile, auto-synced to GitHub via CI/CD |
+
+### 🏅 Certifications
+
+<div align="center">
+
+![Oracle GenAI](https://img.shields.io/badge/Oracle-Generative%20AI%20Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle AI](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Salesforce Agentforce](https://img.shields.io/badge/Salesforce-Agentforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Apex](https://img.shields.io/badge/Salesforce-Apex%20%26%20Flow-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Agentblazer](https://img.shields.io/badge/Salesforce-Agentblazer%20Champion-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
+
+- **Oracle Cloud Infrastructure** — Generative AI Professional
+- **Oracle Cloud Infrastructure** — AI Foundations Associate
+- **Salesforce** — Agentforce, Apex, Flow (via Smartbridge virtual internship)
+- **Salesforce** — Agentblazer Champion (Dev), AI Foundations, Developer Catalyst V3.0
 
 ---
 

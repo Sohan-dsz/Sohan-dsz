@@ -1,11 +1,9 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sohan&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=56&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sohan%20D'Souza&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Fresher%202026&descAlignY=56&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6BBBFF&center=true&vCenter=true&multiline=false&width=600&lines=Building+RAG+Pipelines+%26+LLM+Systems;Multimodal+AI+%7C+LangChain+%7C+LLaMA+3;FastAPI+%7C+React+%7C+Docker+%7C+Cloud;Oracle+Certified+GenAI+%26+AI+Foundations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6BBBFF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=60&lines=Building+RAG+Pipelines+with+LangChain+%2B+LLaMA+3;Multi-Model+OCR+%7C+Computer+Vision+%7C+FastAPI;Full-Stack%3A+React+%2B+Django%2FFastAPI+%2B+PostgreSQL;Oracle+Certified+GenAI+%26+AI+Foundations" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,22 +11,61 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sohandsouza15@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sohan-dsz)
-[![Oracle GenAI](https://img.shields.io/badge/Oracle%20Certified-GenAI%20%26%20AI%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://www.oracle.com/cloud/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sohan19.netlify.app)
+
+![Profile Views](https://komarev.com/ghpvc/?username=Sohan-dsz&color=6BBBFF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-👨‍💻 About Me
+## 👋 About Me
 
-<ul>
-  <li>🎓 <strong>B.E. Computer Science & Business Systems</strong> — SJEC Mangalore (CGPA: 8.94)</li>
-  <li>💼 <strong>AI/ML Engineer & Full-Stack Developer</strong>, focused on RAG pipelines, LLM fine-tuning, multimodal AI, and document AI</li>
-  <li>🛠️ <strong>Tech stack:</strong> Python · FastAPI · React · LangChain · Docker · PyTorch</li>
-  <li>📜 <strong>Certifications:</strong> Oracle Cloud Infrastructure Generative AI, OCI AI Foundations</li>
-  <li>📍 Based in Shivamogga, Karnataka 🇮🇳 — open to relocation</li>
-  <li>🏎️ Led a 30-member team to <strong>AIR 3 nationally</strong> at BAJA SAE INDIA 2026</li>
-</ul>
+```yaml
+name: Sohan D'Souza
+education: "B.E. Computer Science & Business Systems, SJEC Mangalore (VTU) — CGPA 8.94"
+batch: "2026 (Fresher)"
+location: "Shivamogga, Karnataka, India — open to relocation"
+focus: ["AI/ML Engineering", "Computer Vision", "Full-Stack Development"]
+currently: "Actively interviewing for AI/ML Engineer, SWE, and Full-Stack roles"
+fun_fact: "Captained a 30-member team to AIR 3 nationally at BAJA SAE INDIA 2026"
+```
+
+---
+
+## 🧠 How I Build AI Systems
+
+A look at the kind of pipelines I actually ship — not just diagrams, these map to real projects below.
+
+**HealthMate — Multimodal RAG Pipeline**
+
+```mermaid
+flowchart LR
+    A["🎙️ Voice / 📷 Image / 💬 Text Query"] --> B["Whisper STT"]
+    B --> C["BGE Embeddings"]
+    C --> D[("ChromaDB\nVector Store")]
+    D --> E["LLaMA 3\n(via Groq)"]
+    E --> F["FastAPI Backend"]
+    F --> G["⚛️ React Frontend"]
+    style D fill:#6BBBFF,color:#000
+    style E fill:#412991,color:#fff
+```
+
+**Document Analysis Studio — Production OCR Pipeline**
+
+```mermaid
+flowchart LR
+    A["📄 Scanned Document"] --> B["OpenCV Preprocess"]
+    B --> C["ORB + RANSAC\nHomography Align"]
+    C --> D{"Multi-Model\nOCR Ensemble"}
+    D --> E1["TrOCR"]
+    D --> E2["DocTR"]
+    D --> E3["EasyOCR"]
+    E1 & E2 & E3 --> F["FastAPI + Celery/Redis\n(Async Jobs)"]
+    F --> G["Prometheus / Grafana / Loki\nObservability"]
+    style D fill:#6BBBFF,color:#000
+    style F fill:#009688,color:#fff
+```
 
 ---
 
@@ -36,38 +73,38 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧾 Intelligent Document Processing System
-Template-Based OCR pipeline using **TrOCR**, **EasyOCR**, and **PyTorch** — achieving **90%+ extraction accuracy** across structured document types.
+### 🎙️ HealthMate
+Multimodal RAG-based AI health assistant. Voice and image input via **Whisper**, retrieval over **ChromaDB** with **BGE embeddings**, generation via **LLaMA 3 on Groq**, orchestrated with **LangChain**. Shipped with Docker + GitHub Actions CI/CD.
 
-`FastAPI` `PyTorch` `TrOCR` `EasyOCR` `Docker`
+`LangChain` `ChromaDB` `Groq` `Whisper` `FastAPI` `Docker`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏥 HealthMate — Multimodal AI Companion
-AI health assistant powered by **LLaMA 3 Vision** + **Whisper** for voice & image understanding, delivering real-time triage and guidance.
+### 🧾 Document Analysis Studio
+Production-grade OCR system from my Geojit Technologies internship. **OpenCV** + **ORB/RANSAC** alignment feeding a **multi-model ensemble (TrOCR, DocTR, EasyOCR)**, served async via **Celery/Redis**, monitored with **Prometheus/Grafana/Loki**.
 
-`LLaMA 3` `Whisper` `Multimodal` `FastAPI` `React`
+`OpenCV` `TrOCR` `DocTR` `EasyOCR` `Celery` `Grafana`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ NAAC Data Management Platform
-Cloud-native accreditation data platform with **SSO via Keycloak**, full-text search via **MeiliSearch**, containerized with Docker.
+Cloud-native accreditation data platform — **Django/React/PostgreSQL/Docker**, 🥇 1st prize at college project exhibition. Also rebuilt as an enterprise-grade **Java microservices** version with Spring Boot, Kafka, and Spring Cloud.
 
-`Docker` `Keycloak` `MeiliSearch` `FastAPI` `React`
+`Django` `React` `PostgreSQL` `Spring Boot` `Kafka`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎙️ Multimodal AI Pipeline @ Geojit Technologies
-Built production pipelines combining **Whisper** (speech), **LLMs** (language), and **OCR** (vision) for financial document automation.
+### 💬 EmoBhaava
+Multilingual sentiment classifier built on **XLM-RoBERTa**, shipped with CI/CD and **Prometheus** metrics for live monitoring of model performance.
 
-`Whisper` `LLMs` `OCR` `Python` `LangChain`
+`XLM-RoBERTa` `Transformers` `Prometheus` `CI/CD`
 
 </td>
 </tr>
@@ -85,12 +122,13 @@ Built production pipelines combining **Whisper** (speech), **LLMs** (language), 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-Vector%20DB-0081CB?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6BBBFF?style=flat-square)
 
 **Backend & DevOps**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
@@ -100,6 +138,7 @@ Built production pipelines combining **Whisper** (speech), **LLMs** (language), 
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
@@ -109,23 +148,38 @@ Built production pipelines combining **Whisper** (speech), **LLMs** (language), 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sohan-dsz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-dsz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sohan-dsz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sohan-dsz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sohan-dsz&theme=tokyonight&hide_border=true" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sohan-dsz&theme=tokyo-night&hide_border=true" width="100%"/>
+</div>
+
 ---
 
-## 🏆 Achievements
+## 🏆 Achievements & Certifications
 
-- 🥇 **Top National Ranking** — BAJA SAE India 2026 (led 30-member team)
-- 🎓 **CGPA 8.94** — B.E. CSBS, SJEC Mangalore
-- 🏅 **Oracle Certified** — Cloud Infrastructure GenAI Professional
+```mermaid
+timeline
+    title Recent Milestones
+    2026 : CGPA 8.94, B.E. CSBS — SJEC Mangalore
+         : AIR 3 (ATVC), AIR 8 Overall — BAJA SAE INDIA
+         : Geojit Technologies Internship (AIML + Full Stack)
+         : Oracle Cloud — GenAI Professional & AI Foundations
+         : Salesforce — Agentblazer Champion (Dev)
+```
+
+- 🥇 **AIR 3 (ATVC) & AIR 8 Overall** — BAJA SAE INDIA 2026, captaining a 30-member cross-functional team
+- 🎓 **CGPA 8.94** — B.E. Computer Science & Business Systems, SJEC Mangalore
+- 🏅 **Oracle Certified** — Cloud Infrastructure Generative AI Professional
 - 🏅 **Oracle Certified** — AI Foundations Associate
-- 🔬 **90%+ Accuracy** — Production OCR pipeline at Geojit Technologies
+- 🏅 **Salesforce Certified** — Agentforce, Apex, Flow · Agentblazer Champion (Dev)
+- 🔬 **Production OCR System** — multi-model ensemble pipeline built during Geojit Technologies internship
 
 ---
 
@@ -133,11 +187,12 @@ Built production pipelines combining **Whisper** (speech), **LLMs** (language), 
 
 <div align="center">
 
-I'm actively looking for **AI/ML Engineer** and **Software Developer** roles. <br/>
+I'm actively interviewing for **AI/ML Engineer**, **Software Engineer**, and **Full-Stack Developer** roles.
 If you're working on something interesting — let's talk!
 
 [![Email Me](https://img.shields.io/badge/📧%20Email%20Me-EA4335?style=for-the-badge)](mailto:sohandsouza15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sohan1919)
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sohan19.netlify.app)
 
 </div>
 
@@ -147,7 +202,5 @@ If you're working on something interesting — let's talk!
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 *"Build systems that think. Ship products that matter."*
-
-![Profile Views](https://komarev.com/ghpvc/?username=Sohan-dsz&color=6BBBFF&style=flat-square&label=Profile+Views)
 
 </div>
